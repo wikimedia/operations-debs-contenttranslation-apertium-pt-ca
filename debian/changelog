@@ -1,3 +1,14 @@
+apertium-pt-ca (0.8.2+svn~57507-1+wmf2) jessie-wikimedia; urgency=low
+
+  * debian/rules:
+    + Simplify rules file.
+  * debian/control:
+    + Removed dependency on locales.
+    + Updated Vcs-Git URL.
+    + Updated to Standards-Version 3.9.8
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 09 Jan 2018 11:54:37 +0530
+
 apertium-pt-ca (0.8.2+svn~57507-1+wmf1) jessie-wikimedia; urgency=low
 
   * Rebuild for Jessie.
